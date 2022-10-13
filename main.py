@@ -1,0 +1,1 @@
+print("2 plus 2 is 4 minus that's three quick mafs, everyday man's on the block. Come on lets test your math skills")
